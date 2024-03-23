@@ -1,4 +1,4 @@
-### Olá! Eu sou o Henzo Bragas 🖐️
+# Olá! Eu sou o Henzo Bragas 🖐️
 
 
 [![Blog](https://img.shields.io/website?label=DevBragas.com&style=for-the-badge&url=https://DevBragas/)](https://devbragas.com)
@@ -18,7 +18,7 @@
     <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div></br>
 
-
-
 ## Sobre mim
-
+### Olá! Me chamo Henzo Bragas, atualmente estou cursando meu  1° semestre em Ciência da Computação na universidade USCS.</br>
+### Meus projetos nesse momento estão voltados para front-end, mas futuramente pretendo criar apps ou sites fullstacks.
+ 
