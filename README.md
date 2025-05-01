@@ -12,16 +12,6 @@ Atualmente, estou cursando a graduação em **Ciência da Computação**. Meu fo
 
 ---
 
-## 💻 Habilidades Técnicas
-
-- JavaScript  
-- ReactJs  
-- Java  
-- MySQL  
-- Git  
-
----
-
 ## 🛠️ Ferramentas
 
 - Visual Studio Code  
