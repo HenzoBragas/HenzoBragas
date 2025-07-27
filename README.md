@@ -1,11 +1,17 @@
-# 👨‍💻 eu sou Henzo Bragas
+### 👋 Olá! Seja bem-vindo(a) ao meu perfil!
 
-### Sou apaixonado por tecnologia e tenho o objetivo de iniciar uma carreira sólida no desenvolvimento de software. Tenho experiência em **ReactJs**, **JavaScript** e **Java**, e estou constantemente em busca de aprender e expandir minhas habilidades.
-### . Estou constantemente em busca de aprimorar meus conhecimentos por meio do desenvolvimento de projetos pessoais, como APIs REST, sistemas de login e aplicações CRUD. Tenho como foco a criação de aplicações com bom desempenho, código limpo, organizado e bem documentado.
+<br>
 
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-</div>
+## 👨‍💻 Sobre Mim
+### Dsenvolvedor Backend com o objetivo de construir uma carreira sólida na área. Estou constantemente aprimorando meus conhecimentos através de projetos pessoais, como APIs REST, sistemas de autenticação e aplicações CRUD.
+
+### Meu foco é a criação de aplicações com **código limpo, organizado, bem documentado** e de **alto desempenho**.
+
+<br>
+
+## 🛠️ Tecnologias que Utilizo
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,nodejs,git,github" />
+  </a>
+</p>
