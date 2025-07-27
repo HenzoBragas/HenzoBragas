@@ -12,7 +12,9 @@
     <img src="https://skillicons.dev/icons?i=java,spring,postgres,nodejs,git,github" />
   </a>
 </p>
+
 ## 📫 Como me Encontrar
+
 <p align="left">
   <a href="https://www.linkedin.com/in/henzo-bragas-75b982262/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
