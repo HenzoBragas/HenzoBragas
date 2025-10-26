@@ -9,7 +9,7 @@
 ## 🛠️ Tecnologias que Utilizo
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,nodejs,git,github" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,nodejs,git,github,react.js, C#, asp.net" />
   </a>
 </p>
 
