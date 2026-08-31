@@ -39,7 +39,7 @@ API RESTful para gerenciamento de receitas e despesas, com autenticação JWT e 
 ## 💻 Linguagens Mais Utilizadas
 
 <p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HenzoBragas&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HenzoBragas&layout=compact" alt="Top Languages" height="1000" />
 </p>
 
 ## 📫 Como me Encontrar
